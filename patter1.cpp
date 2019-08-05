@@ -12,7 +12,7 @@ cout<<"* ";
 return 0;
 }
 
-/*  pattern is
+/*  pattern  output is
   *
   * *
   * * *
